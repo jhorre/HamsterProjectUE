@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2bb41c5a-f4ee-44a8-aafe-0884e82f2328" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../Content/Blueprints/Characters/BP_Player.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Content/Blueprints/Characters/BP_Player.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Content/Blueprints/Gamemodes/PC_InputGameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Content/Blueprints/Gamemodes/PC_InputGameMode.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Content/__ExternalActors__/Levels/LV_Movement/7/1R/KPG80RGRDVWNLX7AZGN5VY.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Content/__ExternalActors__/Levels/LV_Movement/9/XU/2E3JYOCTI09IV842P7PE15.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Content/__ExternalActors__/Levels/LV_Movement/9/XU/2E3JYOCTI09IV842P7PE15.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Content/__ExternalActors__/Levels/LV_Movement/A/11/C9LDXAN365AQON0JN13D1D.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Content/__ExternalActors__/Levels/LV_Movement/A/11/C9LDXAN365AQON0JN13D1D.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Content/__ExternalActors__/Levels/LV_Movement/D/DA/VKPQ7AT7NGJZZ1FY3RDT4Q.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Content/__ExternalActors__/Levels/LV_Movement/D/DA/VKPQ7AT7NGJZZ1FY3RDT4Q.uasset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/HamsterMovementV0.Build.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3KGsM4X7fkN4tGfOeRS93xk1zjO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "MovementBP",
+    "junie.onboarding.icon.badge.shown": "true",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bb41c5a-f4ee-44a8-aafe-0884e82f2328" name="Changes" comment="" />
+      <created>1791195189877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791195189877</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
